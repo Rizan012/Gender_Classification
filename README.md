@@ -1,2 +1,1 @@
-# BMI_Classification
-Classification according to BMI Index
+# Gender_Classification
