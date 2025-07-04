@@ -19,3 +19,8 @@ Steps to run:
 2.  Install the dependencies by running pip install -r requirements.txt.
 3.  Run the Streamlit app with streamlit run Display.py.
 4.  The app will open in your browser.
+
+Results: 
+![Demo](Result_Img/Male.jpg)
+![Demo](Result_Img/Male.jpg)
+
