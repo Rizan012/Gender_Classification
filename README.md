@@ -21,6 +21,8 @@ Steps to run:
 4.  The app will open in your browser.
 
 Results: 
+
+
 ![Demo](Result_Img/Male.PNG)
 ![Demo](Result_Img/Female.PNG)
 
